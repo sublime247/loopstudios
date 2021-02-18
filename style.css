@@ -12,7 +12,7 @@ header{
     width: auto;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: inherit;
+    background-position: center;
 }
 nav{
    font-family: 'Montserrat', sans-serif;
